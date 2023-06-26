@@ -10756,7 +10756,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-normal {
-  font-weight: 400 !important;
+  font-weight: 600 !important;
 }
 
 .font-weight-bold {
@@ -11188,7 +11188,7 @@ p {
 
 /*/ portfolio wrapper */
 .portfolio-card {
-  display: block;
+  display: flex;
   position: relative;
   overflow: hidden;
 }
